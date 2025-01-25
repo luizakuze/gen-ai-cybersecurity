@@ -1,0 +1,1 @@
+A malware attack has compromised my organization. I have a lot of data related to customer and vendor information. Please help me with the playbook.
